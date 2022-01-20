@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.222197in" height="0.222205in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 222 222"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="517" font-variant="normal" class="str1" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Urban Inline">
+		<font-face-src>
+			<font-face-name name="Urban Inline"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="m" horiz-adv-x="572" d="M553.005 605.003l0 -605.003 -45.0014 0 0 605.003 45.0014 0zm-553.005 0l45.0014 0 0 -605.003 -45.0014 0 0 605.003zm282.996 -556c0,0.66313 4.34464,11.5019 13.0111,32.4934 8.66642,21.0144 19.4823,47.6768 32.4934,80.0101 12.9882,32.3333 27.5085,68.3253 43.4922,107.999 16.0066,39.6506 31.8302,78.6609 47.5167,116.985 15.6636,38.3472 30.161,74.019 43.4922,107.015 13.3312,32.9964 23.987,59.1558 31.9903,78.5009l0 -572.007 -45.0014 0 0 341.992 -106.993 -265 -31.9903 -76.9917 -69.0113 0 -31.007 76.9917 -107.999 265 0 -341.992 -45.0014 0 0 572.007 219.016 -538.004 5.99104 15.0005zm-5.99104 19.0021l-219.016 536.998 49.003 0 13.0111 -32.0132 157.002 -384.981 155.996 384.981 12.9882 32.0132 49.003 0 -1.98939 -4.00165 -215.997 -532.996z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Urban Inline";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str1 {stroke-width:17.4252}
+    .str0 {stroke:black;stroke-width:3}
+    .fil0 {fill:#FF6633}
+    .fnt0 {font-weight:normal;font-size:172.173px;font-family:'Urban Inline'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1829112206528">
+   <circle class="fil0 str0" cx="111" cy="111" r="104"/>
+   <g transform="matrix(0.948198 0 0 1 -39.3836 52.0827)">
+    <text x="111" y="111"  class="fil0 str0 fnt0">m</text>
+   </g>
+  </g>
+ </g>
+</svg>
